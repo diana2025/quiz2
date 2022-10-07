@@ -1,0 +1,3 @@
+Vilken funktion används för att skriva ut saker på skärmen?
+Vad heter nyckelordet för att göra en loop i Python?
+Hur tar man fram längden på listan i variabeln "fruits"?
